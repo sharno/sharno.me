@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            sharno
 tagline:          'A misfit blog'
-description:      'A research assistant at Istanul Sehir University <a href="http://sharno.github.io" target="_blank">sharno</a>.'
+description:      'A research assistant at Istanul Sehir University <a href="https://twitter.com/sharno3" target="_blank">sharno3</a>.'
 url:              http://sharno.github.io
 baseurl:          /
 
