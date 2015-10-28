@@ -20,7 +20,7 @@ author:
 paginate:         5
 
 # Custom vars
-# version:          2.1.0
+ version:          master
 
-#github:
-#  repo:           https://github.com/sharno/sharno.github.io
+github:
+  repo:           https://github.com/sharno/sharno.github.io
