@@ -9,7 +9,7 @@ permalink:        pretty
 title:            sharno
 tagline:          'A misfit blog'
 description:      'A research assistant at Istanul Sehir University <a href="https://twitter.com/sharno3" target="_blank">sharno3</a>.'
-url:              http://sharno.github.io
+url:              http://sharno.me
 baseurl:          /
 
 author:
@@ -22,4 +22,4 @@ paginate:         5
 version:          1.0
 
 github:
-  repo:           https://github.com/sharno/sharno.github.io
+  repo:           https://github.com/sharno/sharno.me
